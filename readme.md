@@ -1,0 +1,1 @@
+These are just the solutions to the [nodeschool.io](http://nodeschool.io/) *javascripting* tutorial.
